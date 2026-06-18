@@ -1,0 +1,6 @@
+com/nimbleways/springboilerplate/utils/StaticLogbackAppender.class
+com/nimbleways/springboilerplate/utils/Annotations/UnitTest.class
+com/nimbleways/springboilerplate/services/implementations/ProductTests.class
+com/nimbleways/springboilerplate/ApplicationIntegrationTests.class
+com/nimbleways/springboilerplate/controllers/OrderControllerIntegrationTests.class
+com/nimbleways/springboilerplate/utils/TestUtils.class
