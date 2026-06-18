@@ -1,11 +1,13 @@
 package com.nimbleways.springboilerplate.entities;
 
 import com.nimbleways.springboilerplate.enums.ProductTypeEnum;
-import lombok.*;
-
-import java.time.LocalDate;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
 
 import javax.persistence.*;
+import java.time.LocalDate;
 
 @Entity
 @Getter

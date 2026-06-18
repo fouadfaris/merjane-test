@@ -1,10 +1,12 @@
 package com.nimbleways.springboilerplate.entities;
 
-import lombok.*;
-
-import java.util.Set;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
 
 import javax.persistence.*;
+import java.util.Set;
 
 // WARN: Should not be changed during the exercise
 @Entity
